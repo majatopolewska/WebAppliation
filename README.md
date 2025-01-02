@@ -10,5 +10,3 @@
 ### saving or modifying records functionalit
 ### use of AJAX technology or similar technique
 ### Automatic tests
-###
-### Maja Topolewska
