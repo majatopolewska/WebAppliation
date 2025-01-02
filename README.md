@@ -1,7 +1,7 @@
-# Early Tasks
+# Web Appliation
 
-## Project for Web Application Programming early pass
+## Application for managing tasks
 
-
-
-## Maja Topolewska 
+### Pthon Django, JavaScript
+### Adaptable to tablet and phone
+### 3 roles with different access: admin, manager and user
